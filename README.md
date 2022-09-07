@@ -4,7 +4,7 @@ Research and industry leverage digital twins to monitor and/or control (cyber-ph
 
 This is a curated repository of Digital Twin resources.
 
-# Definitions
+## Definitions
 
 - "A digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity." ([Digital Twin Consortium](https://www.digitaltwinconsortium.org/))
 
