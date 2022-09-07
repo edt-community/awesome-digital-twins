@@ -37,8 +37,7 @@ This is a curated repository of Digital Twin resources.
 
 - [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
 - [Workshop on Digital Twin Architecture (TwinArch)](https://www.iese.fraunhofer.de/en/twinarch.html)
-- [Workshop on Model-Driven Engineering of Digital Twins
-ModDiT’22](https://gemoc.org/events/moddit2022.html)
+- [Workshop on Model-Driven Engineering of Digital Twins (ModDiT’22)](https://gemoc.org/events/moddit2022.html)
 
 ## Interesting Papers
 
