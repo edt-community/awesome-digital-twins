@@ -17,6 +17,15 @@ This is a curated repository of Digital Twin resources.
 
 ## Books
 
+## Lectures
+
+- [Coursera - Digital Twins and the Automotive Industry](https://www.coursera.org/lecture/digital-twins/digital-twins-and-the-automotive-industry-ss9Mw)
+- [Coursera - Mastering Digital Twins](https://www.coursera.org/learn/mastering-digital-twins)
+- [Digital Twin: A Comprehensive Overview](https://www.udemy.com/course/digital-twin-a-comprehensive-overview/)
+- [Digital Twin Technology](https://www.ntnu.edu/studies/courses/IP500520#tab=omEmnet)
+- [Digital Twins: Enhancing Model-based Design with AR, VR and MR](https://www.conted.ox.ac.uk/courses/digital-twins-enhancing-model-based-design-with-ar-vr-and-mr)
+- [Mark Rochon Distinguished Lecture Series: Constructing a Human Digital Twin](https://www.youtube.com/watch?v=AO8Q_YIjsis)
+
 ## Initiatives
 
 - [DigiTwins Initiative](https://www.digitwins.org/about-the-initiative) - Digital twins in healthcare
