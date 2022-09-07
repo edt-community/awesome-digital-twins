@@ -37,11 +37,11 @@ ModDiT’22](https://gemoc.org/events/moddit2022.html)
 
 ### 2021
 
-- Qi, Q., Tao, F., Hu, T., Anwer, N., Liu, A., Wei, Y., ... & Nee, A. Y. C. (2021). [Enabling technologies and tools for digital twin](https://www.researchgate.net/profile/Qinglin-Qi/publication/336870688_Enabling_technologies_and_tools_for_digital_twin/links/5db7edf14585151435ce6942/Enabling-technologies-and-tools-for-digital-twin.pdf). Journal of Manufacturing Systems, 58, 3-21: the paper describes 5 kinds of constituents of a digital twin, which are (1) physical entities, (2) data, (3) models, (4) services, (5) connections between these. 
+- Qi, Q., Tao, F., Hu, T., Anwer, N., Liu, A., Wei, Y., ... & Nee, A. Y. C. (2021). [Enabling technologies and tools for digital twin](https://www.researchgate.net/profile/Qinglin-Qi/publication/336870688_Enabling_technologies_and_tools_for_digital_twin/links/5db7edf14585151435ce6942/Enabling-technologies-and-tools-for-digital-twin.pdf). Journal of Manufacturing Systems, 58, 3-21: the paper describes 5 kinds of constituents of a digital twin, which are (1) physical entities, (2) data, (3) models, (4) services, (5) connections between these. [DOI](https://doi.org/10.1016/j.jmsy.2019.10.001)
 
 ### 2018
 
-- Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). Digital Twin in manufacturing: [A categorical literature review and classification](https://publik.tuwien.ac.at/files/publik_274125.pdf). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin.
+- Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). Digital Twin in manufacturing: [A categorical literature review and classification](https://publik.tuwien.ac.at/files/publik_274125.pdf). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin. [DOI](https://doi.org/10.1016/j.ifacol.2018.08.474)
 
 
 ## Other Awesome Lists
