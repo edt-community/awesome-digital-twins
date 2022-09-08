@@ -1,12 +1,28 @@
-# Awesome Digital Twins
+<!--lint disable awesome-git-repo-age-->
+# Awesome Digital Twins [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a curated repository of awesome Digital Twin resources.
 
-Research and industry leverage digital twins to monitor and/or control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems. The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. 
+Research and industry leverage digital twins to monitor and/or control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more.
+They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
+The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior.
+
+## Contents
+
+- [Definitions](#definitions)
+- [Software Solutions](#software-solutions)
+- [Videos](#videos)
+- [Books](#books)
+- [Lectures](#lectures)
+- [Initiatives](#initiatives)
+- [Research Events](#research-events)
+- [Interesting Papers](#interesting-papers)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## Definitions
 
-- "A digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity." ([Digital Twin Consortium](https://www.digitaltwinconsortium.org/))
+<!--lint ignore double-link-->
+- "A digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity." ([Digital Twin Consortium](https://www.digitaltwinconsortium.org))
 
 ## Software Solutions
 
@@ -29,7 +45,8 @@ Research and industry leverage digital twins to monitor and/or control (cyber-ph
 
 ## Initiatives
 
-- [DigiTwins Initiative](https://www.digitwins.org/about-the-initiative) - Digital twins in healthcare
+- [DigiTwins Initiative](https://www.digitwins.org/about-the-initiative) - Digital twins in healthcare.
+<!--lint ignore double-link-->
 - [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 - [Eclipse Digital Twin](https://projects.eclipse.org/projects/dt/) - Collaborative, open source initiative at the Eclipse Foundation fostering the development of reference implementations for the activities driven by the Industrial Digital Twin Association (IDTA).
 - [Industrial Digital Twin Association](https://industrialdigitaltwin.org/en/)
@@ -38,7 +55,7 @@ Research and industry leverage digital twins to monitor and/or control (cyber-ph
 
 - [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
 - [Workshop on Digital Twin Architecture (TwinArch)](https://www.iese.fraunhofer.de/en/twinarch.html)
-- [Workshop on Model-Driven Engineering of Digital Twins (ModDiT’22)](https://gemoc.org/events/moddit2022.html)
+- [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'22)](https://gemoc.org/events/moddit2022.html)
 
 ## Interesting Papers
 
@@ -46,7 +63,7 @@ Research and industry leverage digital twins to monitor and/or control (cyber-ph
 
 ### 2021
 
-- Qi, Q., Tao, F., Hu, T., Anwer, N., Liu, A., Wei, Y., ... & Nee, A. Y. C. (2021). [Enabling technologies and tools for digital twin](https://www.researchgate.net/profile/Qinglin-Qi/publication/336870688_Enabling_technologies_and_tools_for_digital_twin/links/5db7edf14585151435ce6942/Enabling-technologies-and-tools-for-digital-twin.pdf). Journal of Manufacturing Systems, 58, 3-21: the paper describes 5 kinds of constituents of a digital twin, which are (1) physical entities, (2) data, (3) models, (4) services, (5) connections between these. [DOI](https://doi.org/10.1016/j.jmsy.2019.10.001)
+- Qi, Q., Tao, F., Hu, T., Anwer, N., Liu, A., Wei, Y., and others & Nee, A. Y. C. (2021). [Enabling technologies and tools for digital twin](https://www.researchgate.net/profile/Qinglin-Qi/publication/336870688_Enabling_technologies_and_tools_for_digital_twin/links/5db7edf14585151435ce6942/Enabling-technologies-and-tools-for-digital-twin.pdf). Journal of Manufacturing Systems, 58, 3-21: the paper describes 5 kinds of constituents of a digital twin, which are (1) physical entities, (2) data, (3) models, (4) services, (5) connections between these. [DOI](https://doi.org/10.1016/j.jmsy.2019.10.001)
 
 ### 2018
 
@@ -56,4 +73,3 @@ Research and industry leverage digital twins to monitor and/or control (cyber-ph
 ## Other Awesome Lists
 
 - [Awesome Internet of things and sensor data](https://github.com/newTendermint/awesome-bigdata#internet-of-things-and-sensor-data)
-- 
