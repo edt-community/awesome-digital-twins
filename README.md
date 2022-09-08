@@ -1,8 +1,8 @@
 # Awesome Digital Twins
 
-Research and industry leverage digital twins to monitor and/or control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems. The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. 
+This is a curated repository of awesome Digital Twin resources.
 
-This is a curated repository of Digital Twin resources.
+Research and industry leverage digital twins to monitor and/or control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems. The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. 
 
 ## Definitions
 
