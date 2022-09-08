@@ -26,7 +26,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Software Solutions
 
-- [Digital Twin Consortium Software Repsoitory](https://github.com/digitaltwinconsortium)
+- [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 
 ## Videos
@@ -54,6 +54,7 @@ The various digital twins serve different purposes, including analysis, control,
 ## Research Events
 
 - [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
+- [Engineering of Digital Twins Community](https://edt.community/)
 - [Workshop on Digital Twin Architecture (TwinArch)](https://www.iese.fraunhofer.de/en/twinarch.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'22)](https://gemoc.org/events/moddit2022.html)
 
