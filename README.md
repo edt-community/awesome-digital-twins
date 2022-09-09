@@ -24,6 +24,10 @@ The various digital twins serve different purposes, including analysis, control,
 <!--lint ignore double-link-->
 - "A digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity." ([Digital Twin Consortium](https://www.digitaltwinconsortium.org))
 
+- "A digital twin is a digital representation of an active unique product (real device, object, machine, service, or intangible asset) or unique product-service system (a system consisting of a product and a related service) that acquires its selected characteristics, properties, conditions, and behaviours by means of models, information, and data within a single or even across multiple life cycle phases." ([Acatech](https://www.acatech.de/wp-content/uploads/2019/09/Forschungsbeirat_Themenfelder-Industrie-4.0-2.pdf))
+
+- "Digital representation sufficient to meet the requirements of a set of use cases." ([Industrial Digital Twin Association](https://industrialdigitaltwin.org/glossar/digitaler-zwilling))
+
 ## Software Solutions
 
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
