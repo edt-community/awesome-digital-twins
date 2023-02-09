@@ -69,8 +69,8 @@ The various digital twins serve different purposes, including analysis, control,
 
 ### 2022
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann (2022). [A cross-domain systematic mapping study on software engineering for Digital Twins](http://www.se-rwth.de/publications/A-cross-domain-systematic-mapping-study-on-software-engineering-for-Digital-Twins.pdf). Journal of Systems and Software, Volume 193, Art. 111361, Elsevier
--  D. Bano, J. Michael, B. Rumpe, S. Varga, M. Weske: [Process-Aware Digital Twin Cockpit Synthesis from Event Logs](http://www.se-rwth.de/publications/Process-Aware-Digital-Twin-Cockpit-Synthesis-from-Event-Logs.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
--  M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann: [Generating Customized Low-Code Development Platforms for Digital Twins](http://www.se-rwth.de/publications/Generating-Customized-Low-Code-Development-Platforms-for-Digital-Twins.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
+- D. Bano, J. Michael, B. Rumpe, S. Varga, M. Weske: [Process-Aware Digital Twin Cockpit Synthesis from Event Logs](http://www.se-rwth.de/publications/Process-Aware-Digital-Twin-Cockpit-Synthesis-from-Event-Logs.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
+- M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann: [Generating Customized Low-Code Development Platforms for Digital Twins](http://www.se-rwth.de/publications/Generating-Customized-Low-Code-Development-Platforms-for-Digital-Twins.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
 
 ### 2021
 
