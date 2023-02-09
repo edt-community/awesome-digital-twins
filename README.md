@@ -28,6 +28,9 @@ The various digital twins serve different purposes, including analysis, control,
 
 - "Digital representation sufficient to meet the requirements of a set of use cases." ([Industrial Digital Twin Association](https://industrialdigitaltwin.org/glossar/digitaler-zwilling))
 
+- "A digital twin of a system consists of a set of models of the system and a set of digital shadows, both of which are purposefully updated on a regular basis, provides a set of services to use both purposefully with respect to the original system, and can send information about the environment and control commands to the original system."([Definition by the German Cluster of Excellence, updated after the Dagstuhl seminar on MDE of DTs](https://www.se-rwth.de/essay/Digital-Twin-Definition/))
+
+
 ## Software Solutions
 
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
@@ -65,6 +68,9 @@ The various digital twins serve different purposes, including analysis, control,
 ## Interesting Papers
 
 ### 2022
+- M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann (2022). [A cross-domain systematic mapping study on software engineering for Digital Twins](http://www.se-rwth.de/publications/A-cross-domain-systematic-mapping-study-on-software-engineering-for-Digital-Twins.pdf). Journal of Systems and Software, Volume 193, Art. 111361, Elsevier
+-  D. Bano, J. Michael, B. Rumpe, S. Varga, M. Weske: [Process-Aware Digital Twin Cockpit Synthesis from Event Logs](http://www.se-rwth.de/publications/Process-Aware-Digital-Twin-Cockpit-Synthesis-from-Event-Logs.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
+-  M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann: [Generating Customized Low-Code Development Platforms for Digital Twins](http://www.se-rwth.de/publications/Generating-Customized-Low-Code-Development-Platforms-for-Digital-Twins.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
 
 ### 2021
 
