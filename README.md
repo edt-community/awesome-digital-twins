@@ -78,7 +78,6 @@ The various digital twins serve different purposes, including analysis, control,
 
 - Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). Digital Twin in manufacturing: [A categorical literature review and classification](https://publik.tuwien.ac.at/files/publik_274125.pdf). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin. [DOI](https://doi.org/10.1016/j.ifacol.2018.08.474)
 
-
 ## Other Awesome Lists
 
 - [Awesome Internet of things and sensor data](https://github.com/newTendermint/awesome-bigdata#internet-of-things-and-sensor-data)
