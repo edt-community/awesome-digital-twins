@@ -27,7 +27,6 @@ The various digital twins serve different purposes, including analysis, control,
 - "Digital representation sufficient to meet the requirements of a set of use cases." ([Industrial Digital Twin Association](https://industrialdigitaltwin.org/glossar/digitaler-zwilling))
 - "A digital twin of a system consists of a set of models of the system and a set of digital shadows, both of which are purposefully updated on a regular basis, provides a set of services to use both purposefully with respect to the original system, and can send information about the environment and control commands to the original system."([Definition by the German Cluster of Excellence, updated after the Dagstuhl seminar on MDE of DTs](https://www.se-rwth.de/essay/Digital-Twin-Definition/))
 
-
 ## Software Solutions
 
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
