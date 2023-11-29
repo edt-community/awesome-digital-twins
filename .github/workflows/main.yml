@@ -1,11 +1,21 @@
 name: CI
-on:
-  pull_request:
+on: [push, pull_request, workflow_dispatch]
 jobs:
-  Awesome_Lint:
+  awesome-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          show-progress: ''
       - run: npx awesome-lint
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v4
+        with:
+          show-progress: ''
+      - name: Lint
+        uses: DavidAnson/markdownlint-cli2-action@v5
+        with:
+          globs: '**/*.md'
