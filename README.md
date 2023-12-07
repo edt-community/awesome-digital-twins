@@ -56,7 +56,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Research Events
 
-- [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362) [[report](https://doi.org/10.4230/DagRep.12.9.20)]
+- [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362) (see the [report](https://doi.org/10.4230/DagRep.12.9.20))
 - [Engineering of Digital Twins Community](https://edt.community/)
 - [Workshop on Digital Twin Architecture (TwinArch)](https://www.iese.fraunhofer.de/en/twinarch.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'21)](https://gemoc.org/events/moddit2021.html)
