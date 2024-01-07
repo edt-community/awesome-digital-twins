@@ -31,10 +31,15 @@ The various digital twins serve different purposes, including analysis, control,
 
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
+- [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
 
 ## Videos
 
+- [Talks of the Engineering Digital Twins – Seminar Series](https://edt.community/past-events/)
+
 ## Books
+
+- [Digital Twin Driven Intelligent Systems and Emerging Metaverse](https://link.springer.com/book/10.1007/978-981-99-0252-1), Springer: Digital Twin foundations and examples in different fields
 
 ## Lectures
 
@@ -64,6 +69,18 @@ The various digital twins serve different purposes, including analysis, control,
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'23)](https://gemoc.org/events/moddit2023.html)
 
 ## Interesting Papers
+
+### 2024
+
+- J. Michael, M. Schwammberger, A. Wortmann: [Explaining Cyberphysical System Behavior With Digital Twins](https://doi.org/10.1109/10.1109/MS.2023.3319580). In IEEE Software, vol. 41, no. 1, pp. 55-63, Jan.-Feb. 2024.
+
+### 2023
+
+- I. David, P. Archambault; Q. Wolak; C. V. Vu; T. Lalonde; K. Riaz; E. Syriani; H. Sahraoui: [Digital Twins for Cyber-Biophysical Systems: Challenges and Lessons Learned](https://doi.org/10.1109/MODELS58315.2023.00014). 2023 ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS), Västerås, Sweden, 2023, pp. 1-12.
+-  B. Combemale, J. Jézéquel, Q. Perez, D. Vojtisek, N. Jansen, J. Michael, F. Rademacher, B. Rumpe, A. Wortmann, J. Zhang: [Model-Based DevOps: Foundations and Challenges](https://doi.org/10.1109/MODELS-C59198.2023.00076). In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), pp. 429–433, ACM/IEEE, Oct. 2023. 
+- I. David, D. Bork: [Towards a Taxonomy of Digital Twin Evolution for Technical Sustainability](https://doi.org/10.1109/MODELS-C59198.2023.00147). 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C), Västerås, Sweden, 2023, pp. 934-938.
+- E. Ferko, A. Bucaioni, P. Pelliccione, M. Behnam: [Standardisation in Digital Twin Architectures in Manufacturing](https://doi.org/10.1109/ICSA56044.2023.00015). 2023 IEEE 20th International Conference on Software Architecture (ICSA), L'Aquila, Italy, 2023, pp. 70-81.
+- M. Heithoff, A. Hellwig, J. Michael, B. Rumpe: [Digital Twins for Sustainable Software Systems](https://www.se-rwth.de/publications/Digital-Twins-for-Sustainable-Software-Systems.pdf). In: IEEE/ACM 7th Int. Workshop on Green And Sustainable Software (GREENS), P. Lago, R. Kazman (Eds.), pp. 19–23, IEEE, Jul. 2023. 
 
 ### 2022
 
