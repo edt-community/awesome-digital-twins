@@ -77,10 +77,10 @@ The various digital twins serve different purposes, including analysis, control,
 ### 2023
 
 - I. David, P. Archambault; Q. Wolak; C. V. Vu; T. Lalonde; K. Riaz; E. Syriani; H. Sahraoui: [Digital Twins for Cyber-Biophysical Systems: Challenges and Lessons Learned](https://doi.org/10.1109/MODELS58315.2023.00014). 2023 ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS), Västerås, Sweden, 2023, pp. 1-12.
--  B. Combemale, J. Jézéquel, Q. Perez, D. Vojtisek, N. Jansen, J. Michael, F. Rademacher, B. Rumpe, A. Wortmann, J. Zhang: [Model-Based DevOps: Foundations and Challenges](https://doi.org/10.1109/MODELS-C59198.2023.00076). In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), pp. 429–433, ACM/IEEE, Oct. 2023. 
+- B. Combemale, J. Jézéquel, Q. Perez, D. Vojtisek, N. Jansen, J. Michael, F. Rademacher, B. Rumpe, A. Wortmann, J. Zhang: [Model-Based DevOps: Foundations and Challenges](https://doi.org/10.1109/MODELS-C59198.2023.00076). In: Int. Conf. on Model Driven Engineering Languages and Systems Companion (MODELS-C), pp. 429–433, ACM/IEEE, Oct. 2023.
 - I. David, D. Bork: [Towards a Taxonomy of Digital Twin Evolution for Technical Sustainability](https://doi.org/10.1109/MODELS-C59198.2023.00147). 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C), Västerås, Sweden, 2023, pp. 934-938.
 - E. Ferko, A. Bucaioni, P. Pelliccione, M. Behnam: [Standardisation in Digital Twin Architectures in Manufacturing](https://doi.org/10.1109/ICSA56044.2023.00015). 2023 IEEE 20th International Conference on Software Architecture (ICSA), L'Aquila, Italy, 2023, pp. 70-81.
-- M. Heithoff, A. Hellwig, J. Michael, B. Rumpe: [Digital Twins for Sustainable Software Systems](https://www.se-rwth.de/publications/Digital-Twins-for-Sustainable-Software-Systems.pdf). In: IEEE/ACM 7th Int. Workshop on Green And Sustainable Software (GREENS), P. Lago, R. Kazman (Eds.), pp. 19–23, IEEE, Jul. 2023. 
+- M. Heithoff, A. Hellwig, J. Michael, B. Rumpe: [Digital Twins for Sustainable Software Systems](https://www.se-rwth.de/publications/Digital-Twins-for-Sustainable-Software-Systems.pdf). In: IEEE/ACM 7th Int. Workshop on Green And Sustainable Software (GREENS), P. Lago, R. Kazman (Eds.), pp. 19–23, IEEE, Jul. 2023.
 
 ### 2022
 
