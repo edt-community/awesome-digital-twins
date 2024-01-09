@@ -56,15 +56,19 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Research Events
 
-- [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
+- [Dagstuhl-Seminar 22362: Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362) (see the [report](https://doi.org/10.4230/DagRep.12.9.20))
 - [Engineering of Digital Twins Community](https://edt.community/)
 - [Workshop on Digital Twin Architecture (TwinArch)](https://www.iese.fraunhofer.de/en/twinarch.html)
+- [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'21)](https://gemoc.org/events/moddit2021.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'22)](https://gemoc.org/events/moddit2022.html)
+- [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'23)](https://gemoc.org/events/moddit2023.html)
 
 ## Interesting Papers
 
 ### 2022
 
+- Loek Cleophas, Thomas Godfrey, Djamel Eddine Khelladi, Daniel Lehner, Benoît Combemale, Mark van den Brand, Michael Vierhauser, Manuel Wimmer, Steffen Zschaler: [A community-sourced view on engineering digital twins: a report from the EDT.Community](https://doi.org/10.1145/3550356.3561549). MoDELS (Companion) 2022: 481-485
+- Romina Eramo, Francis Bordeleau, Benoît Combemale, Mark van den Brand, Manuel Wimmer, Andreas Wortmann: [Conceptualizing Digital Twins](https://doi.org/10.1109/MS.2021.3130755). IEEE Softw. 39(2): 39-46 (2022)
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann (2022). [A cross-domain systematic mapping study on software engineering for Digital Twins](http://www.se-rwth.de/publications/A-cross-domain-systematic-mapping-study-on-software-engineering-for-Digital-Twins.pdf). Journal of Systems and Software, Volume 193, Art. 111361, Elsevier
 - D. Bano, J. Michael, B. Rumpe, S. Varga, M. Weske: [Process-Aware Digital Twin Cockpit Synthesis from Event Logs](http://www.se-rwth.de/publications/Process-Aware-Digital-Twin-Cockpit-Synthesis-from-Event-Logs.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
 - M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann: [Generating Customized Low-Code Development Platforms for Digital Twins](http://www.se-rwth.de/publications/Generating-Customized-Low-Code-Development-Platforms-for-Digital-Twins.pdf). Journal of Computer Languages (COLA), Volume 70, Elsevier
@@ -72,6 +76,10 @@ The various digital twins serve different purposes, including analysis, control,
 ### 2021
 
 - Qi, Q., Tao, F., Hu, T., Anwer, N., Liu, A., Wei, Y., and others & Nee, A. Y. C. (2021). [Enabling technologies and tools for digital twin](https://www.researchgate.net/profile/Qinglin-Qi/publication/336870688_Enabling_technologies_and_tools_for_digital_twin/links/5db7edf14585151435ce6942/Enabling-technologies-and-tools-for-digital-twin.pdf). Journal of Manufacturing Systems, 58, 3-21: the paper describes 5 kinds of constituents of a digital twin, which are (1) physical entities, (2) data, (3) models, (4) services, (5) connections between these. [DOI](https://doi.org/10.1016/j.jmsy.2019.10.001)
+
+### 2020
+
+- Francis Bordeleau, Benoît Combemale, Romina Eramo, Mark van den Brand, Manuel Wimmer: [Towards Model-Driven Digital Twin Engineering: Current Opportunities and Future Challenges](https://doi.org/10.1007/978-3-030-58167-1_4). ICSMM 2020: 43-54
 
 ### 2018
 
