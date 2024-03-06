@@ -36,7 +36,7 @@ The various digital twins serve different purposes, including analysis, control,
 ## Videos
 
 - [Talks of the Engineering Digital Twins – Seminar Series](https://edt.community/past-events/)
-- [Computerphile video on Digital Twins](https://www.youtube.com/watch?v=2ryz9IPIQes)
+- [Computerphile video on Digital Twins](https://www.youtube.com/watch?v=2ryz9IPIQes) - Great introduction video.
 
 ## Books
 
