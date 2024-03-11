@@ -1,5 +1,12 @@
 name: CI
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  schedule:
+    - cron: '1 2 5 * *'
+  workflow_dispatch:
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
@@ -19,3 +26,11 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v15
         with:
           globs: '**/*.md'
+  keepalive:
+    name: Keepalive
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
