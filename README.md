@@ -41,6 +41,7 @@ The various digital twins serve different purposes, including analysis, control,
 ## Books
 
 - [Digital Twin Driven Intelligent Systems and Emerging Metaverse](https://link.springer.com/book/10.1007/978-981-99-0252-1) - Springer: Digital Twin foundations and examples in different fields.
+- [The Engineering of Digital Twins](https://link.springer.com/book/9783031667183?) - Springer: About the engineering of Digital Twins (DTs) of cyber-physical systems (CPSs), to help researchers and advanced professionals to ask and answer the fundamental questions underpinning the development of a DT.
 
 ## Lectures
 
@@ -68,11 +69,12 @@ The various digital twins serve different purposes, including analysis, control,
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'21)](https://gemoc.org/events/moddit2021.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'22)](https://gemoc.org/events/moddit2022.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'23)](https://gemoc.org/events/moddit2023.html)
+- [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2024)
 
 ## Interesting Papers
 
 ### 2024
-
+- S. Gil, B. Oakes, C. Gomes, M. Frasheri, P. G. Larsen: [Toward a systematic reporting framework for Digital Twins: a cooperative robotics case study](https://doi.org/10.1177/00375497241261406). In SIMULATION. August 2024. 
 - I. David, D. Bork: [Infonomics of Autonomous Digital Twins](https://istvandavid.com/files/infonomics-of-autonomous-dt-CAiSE2024.pdf). Advanced Information Systems Engineering – 36th International Conference, CAiSE 2024, Limassol, Cyprus, 2024, Proceedings. 2024. Lecture Notes in Computer Science.
 - J. Michael, M. Schwammberger, A. Wortmann: [Explaining Cyberphysical System Behavior With Digital Twins](https://doi.org/10.1109/10.1109/MS.2023.3319580). In IEEE Software, vol. 41, no. 1, pp. 55-63, Jan.-Feb. 2024.
 
