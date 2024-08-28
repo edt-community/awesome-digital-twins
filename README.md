@@ -41,6 +41,7 @@ The various digital twins serve different purposes, including analysis, control,
 ## Books
 
 - [Digital Twin Driven Intelligent Systems and Emerging Metaverse](https://link.springer.com/book/10.1007/978-981-99-0252-1) - Springer: Digital Twin foundations and examples in different fields.
+- [The Engineering of Digital Twins](https://link.springer.com/book/9783031667183) - A book on digital twins with [accompanying website containing](https://digital-twin-book.org/) extra materials like code, lectures, etc.
 
 ## Lectures
 
