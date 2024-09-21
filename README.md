@@ -75,7 +75,8 @@ The various digital twins serve different purposes, including analysis, control,
 ## Interesting Papers
 
 ### 2024
-- S. Gil, B. Oakes, C. Gomes, M. Frasheri, P. G. Larsen: [Toward a systematic reporting framework for Digital Twins: a cooperative robotics case study](https://doi.org/10.1177/00375497241261406). In SIMULATION. August 2024. 
+
+- S. Gil, B. Oakes, C. Gomes, M. Frasheri, P. G. Larsen: [Toward a systematic reporting framework for Digital Twins: a cooperative robotics case study](https://doi.org/10.1177/00375497241261406). In SIMULATION. August 2024.
 - I. David, D. Bork: [Infonomics of Autonomous Digital Twins](https://istvandavid.com/files/infonomics-of-autonomous-dt-CAiSE2024.pdf). Advanced Information Systems Engineering – 36th International Conference, CAiSE 2024, Limassol, Cyprus, 2024, Proceedings. 2024. Lecture Notes in Computer Science.
 - J. Michael, M. Schwammberger, A. Wortmann: [Explaining Cyberphysical System Behavior With Digital Twins](https://doi.org/10.1109/10.1109/MS.2023.3319580). In IEEE Software, vol. 41, no. 1, pp. 55-63, Jan.-Feb. 2024.
 
