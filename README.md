@@ -44,7 +44,6 @@ The various digital twins serve different purposes, including analysis, control,
 - [The Engineering of Digital Twins](https://link.springer.com/book/9783031667183) - A book on digital twins with [accompanying website containing](https://digital-twin-book.org/) extra materials like code, lectures, etc.
 - [Digital Twin: Fundamentals and Applications](https://link.springer.com/book/9783031677779) - A book from the Digital Twin Consortium (DTC) concerning their [Platform Stack Architectural Framework](https://www.digitaltwinconsortium.org/wp-content/uploads/sites/3/2023/07/Platform-Stack-Architectural-Framework-2023-07-11.pdf)
 
-
 ## Lectures
 
 - [CanopyLAB - Future Technologies Series: Demystifying Digital Twin](https://student.canopylab.com/public/course-preview/290/)
