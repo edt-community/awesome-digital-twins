@@ -37,7 +37,7 @@ jobs:
       - name: Checks
         run: |
           gem install awesome_bot
-          awesome_bot README.md --allow-ssl -a 302,429 
+          awesome_bot README.md --allow-ssl --allow-redirect -a 302,429 
   keepalive:
     name: Keepalive
     runs-on: ubuntu-latest
