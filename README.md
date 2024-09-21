@@ -25,7 +25,7 @@ The various digital twins serve different purposes, including analysis, control,
 - "A digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity." ([Digital Twin Consortium](https://www.digitaltwinconsortium.org))
 - "A digital twin is a digital representation of an active unique product (real device, object, machine, service, or intangible asset) or unique product-service system (a system consisting of a product and a related service) that acquires its selected characteristics, properties, conditions, and behaviours by means of models, information, and data within a single or even across multiple life cycle phases." ([Acatech](https://www.acatech.de/wp-content/uploads/2019/09/Forschungsbeirat_Themenfelder-Industrie-4.0-2.pdf))
 - "Digital representation sufficient to meet the requirements of a set of use cases." ([Industrial Digital Twin Association](https://industrialdigitaltwin.org/glossar/digitaler-zwilling))
-- "A digital twin of a system consists of a set of models of the system and a set of digital shadows, both of which are purposefully updated on a regular basis, provides a set of services to use both purposefully with respect to the original system, and can send information about the environment and control commands to the original system."([Definition by the German Cluster of Excellence, updated after the Dagstuhl seminar on MDE of DTs](https://www.se-rwth.de/essay/Digital-Twin-Definition/))
+- "A digital twin of an original system is a software that consists of a set of models of the system and a set of digital shadows, both of which are purposefully updated on a regular basis, and provides a set of services to use both purposefully with respect to the original system. The digital twin interacts with the original system by providing useful information about the system's context and sending it control commands."([Definition by the German Cluster of Excellence, updated after the Dagstuhl seminar on MDE of DTs, Version 2.2](https://www.se-rwth.de/essay/Digital-Twin-Definition/))
 
 ## Software Solutions
 
@@ -42,6 +42,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 - [Digital Twin Driven Intelligent Systems and Emerging Metaverse](https://link.springer.com/book/10.1007/978-981-99-0252-1) - Springer: Digital Twin foundations and examples in different fields.
 - [The Engineering of Digital Twins](https://link.springer.com/book/9783031667183) - A book on digital twins with [accompanying website containing](https://digital-twin-book.org/) extra materials like code, lectures, etc.
+- [Digital Twin: Fundamentals and Applications](https://link.springer.com/book/9783031677779) - A book from the Digital Twin Consortium (DTC) concerning their [Platform Stack Architectural Framework](https://www.digitaltwinconsortium.org/wp-content/uploads/sites/3/2023/07/Platform-Stack-Architectural-Framework-2023-07-11.pdf)
 
 ## Lectures
 
