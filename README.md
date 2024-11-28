@@ -32,6 +32,7 @@ The various digital twins serve different purposes, including analysis, control,
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
+- [Digital Twin as a Service (DTaaS)](https://github.com/INTO-CPS-Association/DTaaS) - Digital twin platform to build, use and share digital twins with integrated DevOps capabilities
 
 ## Videos
 
