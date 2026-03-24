@@ -9,6 +9,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Contents
 
+- [DailyVox](https://getdailyvox.com) - iOS voice diary that builds a personal Digital Twin from journal entries — captures communication style, emotional patterns, and thought patterns. ([App Store](https://apps.apple.com/app/id6760454642))
 - [Definitions](#definitions)
 - [Software Solutions](#software-solutions)
 - [Videos](#videos)
