@@ -106,7 +106,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ### 2018
 
-- Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). [Digital Twin in manufacturing: A categorical literature review and classification](https://doi.org/10.1016/j.ifacol.2018.08.474). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin. [DOI](https://doi.org/10.1016/j.ifacol.2018.08.474)
+- Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). [Digital Twin in manufacturing: A categorical literature review and classification](https://doi.org/10.1016/j.ifacol.2018.08.474). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin.
 
 ## Other Awesome Lists
 
