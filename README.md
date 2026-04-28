@@ -56,7 +56,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Initiatives
 
-- [DigiTwins Initiative](https://www.digitwins.org/about-the-initiative) - Digital twins in healthcare.
+- [DigiTwins Initiative](https://www.digitwins.org/) - Digital twins in healthcare.
 <!--lint ignore double-link-->
 - [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 - [Eclipse Digital Twin](https://projects.eclipse.org/projects/dt/) - Collaborative, open source initiative at the Eclipse Foundation fostering the development of reference implementations for the activities driven by the Industrial Digital Twin Association (IDTA).
