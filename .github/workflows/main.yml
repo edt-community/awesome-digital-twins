@@ -23,7 +23,7 @@ jobs:
         with:
           show-progress: ''
       - name: Lint
-        uses: DavidAnson/markdownlint-cli2-action@v19
+        uses: DavidAnson/markdownlint-cli2-action@v23
         with:
           globs: '**/*.md'
   check-links:
