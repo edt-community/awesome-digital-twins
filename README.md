@@ -74,6 +74,10 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Interesting Papers
 
+### 2025
+
+- Y. Wang, G. M. Lucas, B. Becerik-Gerber, V. Ustun: [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457). In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Track. 2025. Calibrates a population of LLM agents to match real and expert human behavioral distributions, a human-behavior digital twin technique demonstrated on high-stakes building evacuation scenarios.
+
 ### 2024
 
 - S. Gil, B. Oakes, C. Gomes, M. Frasheri, P. G. Larsen: [Toward a systematic reporting framework for Digital Twins: a cooperative robotics case study](https://doi.org/10.1177/00375497241261406). In SIMULATION. August 2024.
