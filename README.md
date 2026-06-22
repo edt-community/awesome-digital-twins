@@ -56,7 +56,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Initiatives
 
-- [DigiTwins Initiative](https://www.digitwins.org/about-the-initiative) - Digital twins in healthcare.
+- [DigiTwins Initiative](https://www.digitwins.org/) - Digital twins in healthcare.
 <!--lint ignore double-link-->
 - [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 - [Eclipse Digital Twin](https://projects.eclipse.org/projects/dt/) - Collaborative, open source initiative at the Eclipse Foundation fostering the development of reference implementations for the activities driven by the Industrial Digital Twin Association (IDTA).
@@ -106,7 +106,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ### 2018
 
-- Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). Digital Twin in manufacturing: [A categorical literature review and classification](https://publik.tuwien.ac.at/files/publik_274125.pdf). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin. [DOI](https://doi.org/10.1016/j.ifacol.2018.08.474)
+- Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). [Digital Twin in manufacturing: A categorical literature review and classification](https://doi.org/10.1016/j.ifacol.2018.08.474). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin.
 
 ## Other Awesome Lists
 
