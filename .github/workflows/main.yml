@@ -38,11 +38,3 @@ jobs:
         run: |
           gem install awesome_bot
           awesome_bot README.md --allow-ssl --allow-redirect -a 302,429,403 
-  keepalive:
-    name: Keepalive
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - uses: actions/checkout@v6
-      - uses: gautamkrishnar/keepalive-workflow@v2
