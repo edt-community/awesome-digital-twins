@@ -11,7 +11,7 @@ jobs:
   awesome-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           show-progress: ''
       - run: npx awesome-lint
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           show-progress: ''
       - name: Lint
@@ -29,7 +29,7 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Set up Ruby 2.6
         uses: ruby/setup-ruby@v1
         with:
