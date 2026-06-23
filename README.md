@@ -46,7 +46,6 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Lectures
 
-- [CanopyLAB - Future Technologies Series: Demystifying Digital Twin](https://student.canopylab.com/public/course-preview/290/)
 - [Coursera - Digital Twins and the Automotive Industry](https://www.coursera.org/lecture/digital-twins/digital-twins-and-the-automotive-industry-ss9Mw)
 - [Coursera - Mastering Digital Twins](https://www.coursera.org/learn/mastering-digital-twins)
 - [Digital Twin: A Comprehensive Overview](https://www.udemy.com/course/digital-twin-a-comprehensive-overview/)
