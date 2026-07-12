@@ -32,6 +32,7 @@ The various digital twins serve different purposes, including analysis, control,
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Digital twin that learns user's chatting style and mimics them in WeChat conversations.
 
 ## Videos
 
