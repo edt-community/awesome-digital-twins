@@ -31,6 +31,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
+- [Metriplane](https://github.com/Miko997/metriplane) - Observe-only incident analysis, evidence-bundling, replay, and regression-testing layer for recorded robotics and manufacturing workcell data ([archived research release](https://doi.org/10.5281/zenodo.20736619)).
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
 
 ## Videos
