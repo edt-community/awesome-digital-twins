@@ -29,9 +29,10 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Software Solutions
 
+- [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
-- [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
+- [Sixb](https://github.com/sixb-ai/sixb) - TypeScript framework for building operational digital twins from typed objects, relationships, telemetry, connectors, actions, and human-in-the-loop workflows.
 
 ## Videos
 
