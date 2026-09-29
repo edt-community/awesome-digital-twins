@@ -32,6 +32,7 @@ The various digital twins serve different purposes, including analysis, control,
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
+- [Silver Tourism Semantic Digital Twin Studio](https://github.com/Zhangweihui666/silver-tourism-digital-twin) - MIT-licensed research prototype for editable semantic 3D scenes, 500-agent simulation, and age-friendly spatial-intervention evaluation in historic districts.
 
 ## Videos
 
