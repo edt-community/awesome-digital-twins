@@ -73,6 +73,10 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Interesting Papers
 
+### 2026
+
+- CodeNinja Engineering Team, U. Bilal: [Port Twin: One Governed Digital Twin for Every Asset, Feed and Dollar](https://doi.org/10.5281/zenodo.23126431). Technical report, Zenodo. October 2026. Reference architecture for a port-owned digital twin at a landlord port authority: eight source systems, one object model and read-only adapters; object model and data under CC BY 4.0.
+
 ### 2024
 
 - S. Gil, B. Oakes, C. Gomes, M. Frasheri, P. G. Larsen: [Toward a systematic reporting framework for Digital Twins: a cooperative robotics case study](https://doi.org/10.1177/00375497241261406). In SIMULATION. August 2024.
