@@ -32,6 +32,7 @@ The various digital twins serve different purposes, including analysis, control,
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
+- [VEXPLOR AAS Studio](https://doi.org/10.5281/zenodo.23485080) - Open-source (Apache-2.0) web tool to author, validate and serve Asset Administration Shells and to collect live machine values over OPC UA, Modbus TCP and MQTT ([source](https://github.com/waceinc/vexplor-aas)).
 
 ## Videos
 
