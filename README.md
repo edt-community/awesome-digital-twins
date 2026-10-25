@@ -31,6 +31,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
+- [FinTwin](https://github.com/SpiliosDimakopoulos/fintwin) - Open source digital twin of public companies' finances, rebuilt weekly from SEC filings, with Monte Carlo stress tests and an out-of-sample evaluation ([paper](https://doi.org/10.5281/zenodo.23434606)).
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
 
 ## Videos
