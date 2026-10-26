@@ -29,6 +29,7 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Software Solutions
 
+- [AgentFEM Pipe Assembly Lab](https://lab.haoming-luo.com/open-science/pipe-lab/?lang=en) - Browser-based pipe assembly and support/damper comparison using solid-FE component reduced-order models; a simulation building block, without live sensor synchronization.
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
