@@ -109,4 +109,5 @@ The various digital twins serve different purposes, including analysis, control,
 
 ## Other Awesome Lists
 
+- [Awesome Digital Civil Engineering](https://github.com/Ayberkrk/awesome-digital-civil-engineering) - Open source tools and datasets for civil and infrastructure engineering, with sections on digital twins, structural health monitoring, BIM and point clouds.
 - [Awesome Internet of things and sensor data](https://github.com/newTendermint/awesome-bigdata#internet-of-things-and-sensor-data)
